@@ -1,0 +1,51 @@
+* commit 51aa5aec90dd3d996ef546a1001fcce3462dc65b (HEAD -> Rama_Ejercicio2, origin/Rama_Ejercicio2)
+| Author: Miguel <miguel_romerillo@hotmail.com>
+| Date:   Mon Jun 7 13:41:53 2021 +0200
+| 
+|     v1
+| 
+* commit 55459b1f91cb53fc6e5b834c69599bf44cf46d33
+| Author: Miguel <miguel_romerillo@hotmail.com>
+| Date:   Mon Jun 7 13:41:41 2021 +0200
+| 
+|     v1
+| 
+* commit 28f38a783488b6453be19bc934c9b5148a1e342f
+| Author: Miguel <miguel_romerillo@hotmail.com>
+| Date:   Mon Jun 7 13:38:47 2021 +0200
+| 
+|     v1
+| 
+* commit ccff7c4b6fa84e06e625cc9edd3e4ed917d1af9e (origin/master, master)
+| Author: Miguel <miguel_romerillo@hotmail.com>
+| Date:   Mon Jun 7 13:34:25 2021 +0200
+| 
+|     v1
+| 
+* commit 02691babd5c81335e41ec5dba5e9d1c7e09737ea
+| Author: Miguel <miguel_romerillo@hotmail.com>
+| Date:   Mon Jun 7 13:34:10 2021 +0200
+| 
+|     v1
+| 
+* commit cbd1040937d3d0fc20a19bfe575c8abf1d10a0dd
+| Author: Miguel <miguel_romerillo@hotmail.com>
+| Date:   Mon Jun 7 13:32:54 2021 +0200
+| 
+|     v2
+| 
+* commit a6cc26d1ec23b0223e8d93c94dba7542972a59b4
+  Author: Miguel <miguel_romerillo@hotmail.com>
+  Date:   Mon Jun 7 13:27:30 2021 +0200
+  
+      v1
+51aa5ae HEAD@{0}: checkout: moving from master to Rama_Ejercicio2
+ccff7c4 HEAD@{1}: checkout: moving from Rama_Ejercicio2 to master
+51aa5ae HEAD@{2}: commit: v1
+55459b1 HEAD@{3}: commit: v1
+28f38a7 HEAD@{4}: commit: v1
+ccff7c4 HEAD@{5}: checkout: moving from master to Rama_Ejercicio2
+ccff7c4 HEAD@{6}: commit: v1
+02691ba HEAD@{7}: commit: v1
+cbd1040 HEAD@{8}: commit: v2
+a6cc26d HEAD@{9}: commit (initial): v1
